@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordDamage", "SwordDamage\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamageCalculator", "DamageCalculator\DamageCalculator.csproj", "{0D0CD99A-C799-470F-B174-B741635DBC7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighLowGame", "HighLowGame\HighLowGame.csproj", "{5DD396A3-1D38-4AAE-858E-1999CD92B724}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{0D0CD99A-C799-470F-B174-B741635DBC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D0CD99A-C799-470F-B174-B741635DBC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D0CD99A-C799-470F-B174-B741635DBC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD396A3-1D38-4AAE-858E-1999CD92B724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD396A3-1D38-4AAE-858E-1999CD92B724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD396A3-1D38-4AAE-858E-1999CD92B724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD396A3-1D38-4AAE-858E-1999CD92B724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
