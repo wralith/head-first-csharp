@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomMenu", "RandomMenu\Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordDamage", "SwordDamage\SwordDamage.csproj", "{140FED0C-884B-4BF9-A4AF-D7E35A4C1727}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamageCalculator", "DamageCalculator\DamageCalculator.csproj", "{0D0CD99A-C799-470F-B174-B741635DBC7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{140FED0C-884B-4BF9-A4AF-D7E35A4C1727}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{140FED0C-884B-4BF9-A4AF-D7E35A4C1727}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{140FED0C-884B-4BF9-A4AF-D7E35A4C1727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0CD99A-C799-470F-B174-B741635DBC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0CD99A-C799-470F-B174-B741635DBC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0CD99A-C799-470F-B174-B741635DBC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0CD99A-C799-470F-B174-B741635DBC7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
